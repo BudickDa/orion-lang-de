@@ -1,6 +1,7 @@
 anti:i18n@0.4.3
 base64@1.0.3
 blaze@2.1.2
+budickda:orion-lang-de@1.4.0
 coffeescript@1.0.6
 deps@1.0.7
 ejson@1.0.6
@@ -13,11 +14,10 @@ meteor@1.1.6
 minimongo@1.0.8
 observe-sequence@1.0.6
 ordered-dict@1.0.3
-orionjs:lang-en@1.1.0
-orionjs:lang-es@1.1.0
+orionjs:lang-en@1.4.0
 random@1.0.3
 reactive-var@1.0.5
-softwarerero:accounts-t9n@1.1.1
+softwarerero:accounts-t9n@1.1.3
 tracker@1.0.7
 ui@1.0.6
 underscore@1.0.3

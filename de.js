@@ -1,4 +1,4 @@
-i18n.map('[language-code]', {
+i18n.map('de', {
   global: {
     save: 'Speichern',
     create: 'Erstellen',
@@ -31,7 +31,7 @@ i18n.map('[language-code]', {
     index: {
       title: 'Benutzerkonten',
       actions: {
-        edit: 'bearbeiten',
+        edit: 'bearbeiten'
       },
       tableTitles: {
         name: 'Name',
@@ -64,7 +64,7 @@ i18n.map('[language-code]', {
       }
     },
     myAccount: {
-      title: 'Mein Benutzerkonto',
+      title: 'Mein Benutzerkonto'
     },
     create: {
       title: 'Benutzer erstellen',
@@ -78,10 +78,10 @@ i18n.map('[language-code]', {
       }
     },
     changePassword: {
-      title: 'Passwort ändern',
+      title: 'Passwort ändern'
     },
     updateProfile: {
-      title: 'Benutzerkonto bearbeiten',
+      title: 'Benutzerkonto bearbeiten'
     },
     register: {
       title: 'Registrierung',
@@ -94,7 +94,7 @@ i18n.map('[language-code]', {
       },
       messages: {
         invalidEmail: 'Invalide E-Mailadresse',
-        invalidInvitationCode: 'Invalider Einladungscode',
+        invalidInvitationCode: 'Invalider Einladungscode'
       }
     }
   },
@@ -111,12 +111,12 @@ i18n.map('[language-code]', {
     },
     common: {
       defaultPluralName: 'Items',
-      defaultSingularName: 'Item',
+      defaultSingularName: 'Item'
     }
   },
   config: {
     update: {
-      title: 'Optionen',
+      title: 'Optionen'
     }
   },
   dictionary: {
@@ -128,23 +128,23 @@ i18n.map('[language-code]', {
     messages: {
       notFound_id: 'Datei nicht gefunden [{$i}]',
       errorUploading: 'Fehler beim Hochladen der Datei',
-      errorRemoving: 'Fehler beim löschen der Datei',
+      errorRemoving: 'Fehler beim löschen der Datei'
     }
   },
   pages: {
     schema: {
       title: 'Titel',
-      url: 'URL',
+      url: 'URL'
     },
     index: {
-      title: 'Seiten',
+      title: 'Seiten'
     },
     create: {
       title: 'Seite erstellen',
       chooseTemplate: 'Wähle Template'
     },
     update: {
-      title: 'Seite bearbeiten',
+      title: 'Seite bearbeiten'
     },
     delete: {
       title: 'Seite löschen',
@@ -154,11 +154,11 @@ i18n.map('[language-code]', {
   attributes: {
     users: {
       pluralName: 'Benutzer',
-      singularName: 'Benutzer',
+      singularName: 'Benutzer'
     },
     file: {
       choose: 'Datei wählen',
-      noFile: 'Datei fehlt',
+      noFile: 'Datei fehlt'
     },
     image: {
       choose: 'Wähle Bild'
@@ -177,7 +177,7 @@ i18n.map('[language-code]', {
       first: 'Start',
       previous: 'vorheriges',
       next: 'nächstes',
-      last: 'Ende',
+      last: 'Ende'
     }
   }
 });
